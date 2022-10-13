@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893659165738",
+    "project_id": "clinico-63024",
+    "storage_bucket": "clinico-63024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893659165738:android:723b2c7655df6ba3a9bf53",
+        "android_client_info": {
+          "package_name": "com.clinico.clinico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893659165738-a725g4sep91srmr1h74p58qbhafpb56f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOJ-BjNyAhp810vzAVaR53nZxdD4GzUmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893659165738-a725g4sep91srmr1h74p58qbhafpb56f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
